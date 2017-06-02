@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.0.0_5428a7d977243d65490f1738417c87b1e4e64fb5.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_8d37ac136ed0a853fa1efb6dc2cbb74155ed5273.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/libs/tween-engine-api.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/tween-engine-api_0e3a90bb6dd89d768b4cce37704ccc5e41097d62.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.4/eb089b58828b842bbdd4f7cb48b54626924cfdd5/gdx-box2d-1.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb089b58828b842bbdd4f7cb48b54626924cfdd5">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.6.4_c4b10998a55c2113400ea587ce2f600aa8fafe55.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.0.0_b582ec87b7a54bbfc91cd2df8b66d9010e234ac5.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.0.0_8b0ffe2bde447c0d95a41dde51dcece6e60dcb6a.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_62f40092cb10821b8b03b82937c832ca289e1e31.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/game - Android Studio/BaseGameUtils/1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bf5089672c3fa85ac27f9e90b030e84dbe351f9b">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/game - Android Studio-BaseGameUtils-1.0_4fa95232034d11e2245e6af55ce64fc7e6493403.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_7938f964a5856c2eca3e8f16315a59809fe22c20.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.0.0_b647066fb45b22cbf5e932894e651ddbd8a5711e.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.0.0_58f493e13cea583007f83e65d3c067f0f13e58b0.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.0.0_6f5cac67ff2cb474f6d476bb701d9fa5ef6b9723.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_b4cc8a51cd54fb003d8cc28f752e03874ae6a750.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_c44249c46f589ed89702c59391ae3001916bd289.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.6.4/d681be06ea6873f2056bbcbe091367bd9f7c23f2/gdx-backend-android-1.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d681be06ea6873f2056bbcbe091367bd9f7c23f2">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.6.4_c2ca21e85f7d04c42d0608d6c5eb18e2cc64223d.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_bda7b656a58186fb14ab51b85e967a16a6e786bd.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-20.0.0_469e52d0ab605d2eadc8c7f8b78e2f48de565380.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a63a1609ce41a44632339d114ec27daab0f69639">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/core-1.0_cdfae4a656edbc25f1e3d7b7f2fb649549f5c1d7.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_d6e9d35ceb9ec253cef9891a36d58ea7d25e2dd5.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.0.0_ccddddfb06e21b1188293f2a1a4e34bc81ffc9f8.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.4/13ed9a042554afce8c8b38c53e9b6d6d9c10600e/gdx-1.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="13ed9a042554afce8c8b38c53e9b6d6d9c10600e">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/gdx-1.6.4_8f4106b6be511a55874d6019dfed8fa5d6deff21.jar" />
+    </item>
+    <item
+        jar="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/Arash/Documents/GitHub/360sourcecode/360 2017/game - Android Studio/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.0.0_1f202208328c2b7d722e8900acb9634c1734d224.jar" />
+    </item>
+
+</items>
